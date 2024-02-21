@@ -11,20 +11,20 @@ Blockchain Network:
 
 - Go to network folder and run script for network configuration:
 
-     harshil@harshil: ./generate.sh
+     vagrant@vagrant: ./generate.sh
 
 Start the fabric network:
 
-     harshil@harshil: ./startFabric.sh
+     vagrant@vagrant: ./startFabric.sh
 
 After network started, run the two javascript to enroll admin and register user:
 
-     harshil@harshil: node enrollAdmin.js
-     harshil@harshil: node registerUser.js
+     vagrant@vagrant: node enrollAdmin.js
+     vagrant@vagrant: node registerUser.js
 
 Run the application with node:
 
-    harshil@harshil: node server.js
+    vagrant@vagrant: node server.js
 
     - Go to => http://localhost:8080
 
