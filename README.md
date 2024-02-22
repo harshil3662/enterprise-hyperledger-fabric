@@ -1,6 +1,6 @@
 <h1>Application Communication Workflow:</h1>
 <br>
-![comm_flow_image](https://github.com/harshil3662/enterprise-hyperledger-fabric/assets/87032930/5c7de930-f981-4c64-8c7e-22992df8eb68)
+<img width="1051" alt="1" src="https://github.com/harshil3662/enterprise-hyperledger-fabric/assets/87032930/0b1e2c7d-bf2d-4d94-acc6-ff70236f4ac4">
 <br>
 
 - User will interact with the Todos client application, in their browser.<br>
@@ -12,9 +12,9 @@
 
 <h1>Using the todo list application:</h1>
 <br>
-![todo-authentication](https://github.com/harshil3662/enterprise-hyperledger-fabric/assets/87032930/2e535b10-4539-4953-84da-a7e168a8c19e)
+<img width="1029" alt="2" src="https://github.com/harshil3662/enterprise-hyperledger-fabric/assets/87032930/ff6cfd24-93d5-4be9-b1cd-b590741aa2d4">
 <br>
-![todo-list](https://github.com/harshil3662/enterprise-hyperledger-fabric/assets/87032930/275719b6-6cc7-4dc7-9c85-a70df6019d9b)
+<img width="1027" alt="3" src="https://github.com/harshil3662/enterprise-hyperledger-fabric/assets/87032930/35d11b17-fde2-4e02-9a12-4a173d2456ca">
 <br>
 
 <h2>Karan (Business Analyst):</h2>
